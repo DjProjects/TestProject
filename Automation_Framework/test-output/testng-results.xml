@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="7" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="246591" started-at="2017-04-08T09:56:29Z" finished-at="2017-04-08T10:00:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="246591" started-at="2017-04-08T09:56:29Z" finished-at="2017-04-08T10:00:35Z">
+      <class name="TestScripts.ValidateBookingsSection">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:TestScripts.ValidateBookingsSection@527740a2]" name="beforeMethod" is-config="true" duration-ms="13672" started-at="2017-04-08T15:26:29Z" finished-at="2017-04-08T15:26:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScripts.ValidateBookingsSection.Validate_BookingsSection() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Validate_BookingsSection()[pri:0, instance:TestScripts.ValidateBookingsSection@527740a2]" name="Validate_BookingsSection" duration-ms="17825" started-at="2017-04-08T15:26:42Z" finished-at="2017-04-08T15:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_BookingsSection -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:TestScripts.ValidateBookingsSection@527740a2]" name="afterMethod" is-config="true" duration-ms="5884" started-at="2017-04-08T15:27:00Z" finished-at="2017-04-08T15:27:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScripts.ValidateBookingsSection.Validate_BookingsSection() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestScripts.ValidateBookingsSection@527740a2]" name="afterSuite" is-config="true" duration-ms="450" started-at="2017-04-08T15:30:35Z" finished-at="2017-04-08T15:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestScripts.ValidateBookingsSection -->
+      <class name="TestScripts.ValidateNewsLetterSection">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:TestScripts.ValidateNewsLetterSection@3108bc]" name="beforeMethod" is-config="true" duration-ms="13585" started-at="2017-04-08T15:27:34Z" finished-at="2017-04-08T15:27:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScripts.ValidateNewsLetterSection.ValidateNewsLetter() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ValidateNewsLetter()[pri:0, instance:TestScripts.ValidateNewsLetterSection@3108bc]" name="ValidateNewsLetter" duration-ms="66440" started-at="2017-04-08T15:27:48Z" finished-at="2017-04-08T15:28:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateNewsLetter -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:TestScripts.ValidateNewsLetterSection@3108bc]" name="afterMethod" is-config="true" duration-ms="909" started-at="2017-04-08T15:28:54Z" finished-at="2017-04-08T15:28:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScripts.ValidateNewsLetterSection.ValidateNewsLetter() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestScripts.ValidateNewsLetterSection -->
+      <class name="TestScripts.ValidateDateandTimeDisplayedonHomePage">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:TestScripts.ValidateDateandTimeDisplayedonHomePage@13a5fe33]" name="beforeMethod" is-config="true" duration-ms="12266" started-at="2017-04-08T15:27:06Z" finished-at="2017-04-08T15:27:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScripts.ValidateDateandTimeDisplayedonHomePage.ValidateDateandTimeDisplayed() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ValidateDateandTimeDisplayed()[pri:0, instance:TestScripts.ValidateDateandTimeDisplayedonHomePage@13a5fe33]" name="ValidateDateandTimeDisplayed" duration-ms="15031" started-at="2017-04-08T15:27:18Z" finished-at="2017-04-08T15:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDateandTimeDisplayed -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:TestScripts.ValidateDateandTimeDisplayedonHomePage@13a5fe33]" name="afterMethod" is-config="true" duration-ms="936" started-at="2017-04-08T15:27:33Z" finished-at="2017-04-08T15:27:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScripts.ValidateDateandTimeDisplayedonHomePage.ValidateDateandTimeDisplayed() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestScripts.ValidateDateandTimeDisplayedonHomePage -->
+      <class name="TestScripts.ValidateHotelsSection">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:TestScripts.ValidateHotelsSection@370736d9]" name="beforeMethod" is-config="true" duration-ms="12463" started-at="2017-04-08T15:28:55Z" finished-at="2017-04-08T15:29:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScripts.ValidateHotelsSection.Validate_HotelsSection() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Validate_HotelsSection()[pri:0, instance:TestScripts.ValidateHotelsSection@370736d9]" name="Validate_HotelsSection" duration-ms="86449" started-at="2017-04-08T15:29:08Z" finished-at="2017-04-08T15:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_HotelsSection -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:TestScripts.ValidateHotelsSection@370736d9]" name="afterMethod" is-config="true" duration-ms="1088" started-at="2017-04-08T15:30:34Z" finished-at="2017-04-08T15:30:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScripts.ValidateHotelsSection.Validate_HotelsSection() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestScripts.ValidateHotelsSection -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
