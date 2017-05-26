@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="2" parallel="tests">
+  <test name="TestNG">
+    <classes>
+      <class name="com.catracker.modules.Accounts.Accounts"/>
+     
+    </classes>
+  </test> <!-- TestNG -->
+</suite> <!-- Suite -->
